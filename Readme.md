@@ -75,7 +75,7 @@ grocery-app/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/grocery-app.git
+git clone [https://github.com/amritranjandev/grocery-app.git](https://github.com/amritranjandev/grocery_app.git)
 cd grocery-app
 
 # Install backend dependencies
