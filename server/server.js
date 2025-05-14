@@ -29,6 +29,7 @@ const allowedOrigins = [
   'http://localhost:3000',
   'http://localhost:5173',
   'https://example.com', // Add your production domain here
+  'https://grocery-app-frontend-alpha.vercel.app',
 ];
 
 app.post('/stripe', express.raw({type: 'application/json'}), stripeWebhooks)
